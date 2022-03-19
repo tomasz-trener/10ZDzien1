@@ -41,6 +41,8 @@ namespace P12ZadanieInstrukcjeWarunkowe
 
             Console.WriteLine("wynik to: " + wynik);
             Console.ReadKey();
+
+           // https://github.com/tomasz-trener/10zDzien1
         }
     }
 }
