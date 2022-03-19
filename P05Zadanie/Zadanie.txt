@@ -1,0 +1,6 @@
+﻿
+
+Wczytaj dowolny ciag tekstowy z konsoli
+
+1) wypisz ile ma on znakow
+3) zamian tylko pierwsza i ostatnia litere na duza , pozostale na male

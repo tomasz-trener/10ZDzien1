@@ -1,0 +1,10 @@
+﻿
+
+
+Wczytaj z konsoli rownanie zlozone z sumy dowolnych liczb w jednym wierszu
+
+np:
+"15+3"
+
+
+wypisz w konsoli wynik

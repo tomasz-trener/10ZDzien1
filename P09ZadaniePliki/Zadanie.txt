@@ -1,0 +1,5 @@
+﻿
+
+NApisz program, ktory pozwala na wczytanie nazwy pliku i dowolnych dwoch wyrazow
+
+nastepnie program zamienia w podanym pliku wszystkie wyrazy podane przez uzytkownika 
