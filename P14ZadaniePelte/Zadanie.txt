@@ -1,0 +1,5 @@
+﻿
+
+
+
+Niech program 12 wykonuje się w pętli

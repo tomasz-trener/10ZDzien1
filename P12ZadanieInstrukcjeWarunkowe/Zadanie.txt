@@ -1,0 +1,17 @@
+﻿
+
+
+
+
+poproś o wczytanie dowolego rownania matematycznego zlozonego z 
+dwóch liczb i operatora np:
+
+15+16
+lub 
+17*2
+lub 
+20/3
+lub 100-1
+
+program powinien wygenerować wynik 
+

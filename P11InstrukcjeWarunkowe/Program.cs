@@ -61,7 +61,7 @@ namespace P11InstrukcjeWarunkowe
 
             string plec2 = wzrost > 180 ? "mężczyzna" : "kobieta";
 
-
+            //https://github.com/tomasz-trener/10ZDzien1
         }
     }
 }
